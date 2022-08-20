@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a69de875-6dba-4156-a1bc-894ed4ee530d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/klashdevelopment/interprinter/InterPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/klashdevelopment/interprinter/InterPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/klashdevelopment/interprinter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/klashdevelopment/interprinter/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Maven.install (clean)">
+  <component name="RunManager" selected="Application.Run KliDE">
     <configuration name="Run KliDE" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />

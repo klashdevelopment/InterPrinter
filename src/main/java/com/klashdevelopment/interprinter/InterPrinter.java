@@ -1,5 +1,6 @@
 package com.klashdevelopment.interprinter;
 
+import com.klashdevelopment.klide.KliDEFrame;
 import org.apache.commons.compress.utils.IOUtils;
 
 import java.io.File;
@@ -14,6 +15,11 @@ public class InterPrinter {
         } catch (Exception e) {
             throw e;
         }
+    }
+
+    public static void openEditor(Interpreter interpreter) {
+        KliDEFrame frame = new KliDEFrame();
+        frame.RunPanel(interpreter);
     }
 
     public static String readContentOffFile(File file) throws FileNotFoundException {

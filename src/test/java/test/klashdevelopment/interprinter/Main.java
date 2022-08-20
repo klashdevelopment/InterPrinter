@@ -1,5 +1,6 @@
 package test.klashdevelopment.interprinter;
 
+import com.klashdevelopment.interprinter.InterPrinter;
 import com.klashdevelopment.interprinter.Interpreter;
 import com.klashdevelopment.interprinter.presets.SimpleInterpreter;
 import com.klashdevelopment.interprinter.presets.SimpleInterpreterCustomActions;
@@ -15,5 +16,7 @@ public class Main {
                 PRINT "this wont run - it doesnt have an end
                 PRINT "this will run! it has an end" # im a comment
                 """);
+
+        InterPrinter.openEditor(interpreter);
     }
 }
